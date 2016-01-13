@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[thefourthmachine]]></title>
         <description><![CDATA[thefourthmachine]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/thefourthmachine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Jan 2016 19:16:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 13 Jan 2016 19:19:35 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/thefourthmachine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[It Came From A Box]]></title>
+            <description><![CDATA[<article><h1>It Came From A Box</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cde4573f8c99e7b45dc56e5485776d8989753343.png"></article>]]></description>
+            <link>https://thegrid.ai/thefourthmachine/it-came-from-a-box/index.html</link>
+            <guid isPermaLink="false">f6e4f32e-8dd7-45c5-90e4-50db2c7d90b9</guid>
+            <pubDate>Wed, 13 Jan 2016 19:19:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Toxic]]></title>
             <description><![CDATA[<article><h1>Toxic</h1><p>This was an 11x17 poster I designed that was based on a sketch in my sketchbook. Can you tell I love bright colors?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f822add84e8b3437bff4e54a71d5c5a14846589d.png"></article>]]></description>
-            <link>undefinedtoxic/index.html</link>
+            <link>https://thegrid.ai/thefourthmachine/toxic/index.html</link>
             <guid isPermaLink="false">c067e04b-80bc-49c8-9ffe-d7be0c455291</guid>
             <pubDate>Wed, 13 Jan 2016 19:16:03 GMT</pubDate>
         </item>
