@@ -1,6 +1,6 @@
 name: thefourthmachine
 favicon: null
-layout_spectrum: 0.8449444156140089
+layout_spectrum: 0.50659
 typography_spectrum: 0.658158193808049
 cta:
   domain: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#e28b3a'
+    - '#2b3843'
+    - '#b4763c'
+    - '#1e272f'
+    - '#ff5500'
   brandStrength: 0.7448249401059002
   lightness: 0.13340656412765384
   saturation: 0.6857952047139406
